@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\builders\\onpremvmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\builders\\onpremvmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\builders\\ivirtualmachinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\builders\\ivirtualmachinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\builders\\gcpvmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\builders\\gcpvmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\builders\\azurevmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\builders\\azurevmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\builders\\awsvmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\builders\\awsvmbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\services\\virtualmachineprovisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\services\\virtualmachineprovisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\directors\\virtualmachinedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\directors\\virtualmachinedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\dtos\\vmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\dtos\\vmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\application\\dtos\\vmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE355-06A9-492E-87C3-1CCAB59A6266}|Application\\Application.csproj|solutionrelative:application\\dtos\\vmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\domain\\entities\\virtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\virtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\domain\\interfaces\\icloudresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icloudresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\domain\\enums\\sizetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\sizetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\domain\\entities\\virtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\virtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8417949-12D3-461B-B424-08DCF3DEDDCB}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\multicloudprovisioning\\domain\\entities\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +90,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DomainValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Exceptions\\DomainValidationException.cs",
-              "RelativeDocumentMoniker": "Domain\\Exceptions\\DomainValidationException.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Exceptions\\DomainValidationException.cs",
-              "RelativeToolTip": "Domain\\Exceptions\\DomainValidationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OnPremVmBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\OnPremVmBuilder.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\OnPremVmBuilder.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\OnPremVmBuilder.cs",
+              "RelativeToolTip": "Application\\Builders\\OnPremVmBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:13:53.466Z",
+              "WhenOpened": "2025-10-20T04:16:54.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVirtualMachineBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\IVirtualMachineBuilder.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\IVirtualMachineBuilder.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\IVirtualMachineBuilder.cs",
+              "RelativeToolTip": "Application\\Builders\\IVirtualMachineBuilder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:01:57.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GcpVmBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\GcpVmBuilder.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\GcpVmBuilder.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\GcpVmBuilder.cs",
+              "RelativeToolTip": "Application\\Builders\\GcpVmBuilder.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:15:51.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AzureVmBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\AzureVmBuilder.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\AzureVmBuilder.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\AzureVmBuilder.cs",
+              "RelativeToolTip": "Application\\Builders\\AzureVmBuilder.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:08:54.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AwsVmBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\AwsVmBuilder.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\AwsVmBuilder.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Builders\\AwsVmBuilder.cs",
+              "RelativeToolTip": "Application\\Builders\\AwsVmBuilder.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:03:13.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VirtualMachineProvisionService.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Services\\VirtualMachineProvisionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\VirtualMachineProvisionService.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Services\\VirtualMachineProvisionService.cs",
+              "RelativeToolTip": "Application\\Services\\VirtualMachineProvisionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:07:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VirtualMachineDirector.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Directors\\VirtualMachineDirector.cs",
+              "RelativeDocumentMoniker": "Application\\Directors\\VirtualMachineDirector.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Directors\\VirtualMachineDirector.cs",
+              "RelativeToolTip": "Application\\Directors\\VirtualMachineDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:06:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VmRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\DTOs\\VmRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\VmRequestDto.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\DTOs\\VmRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\VmRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:01:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VmResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\DTOs\\VmResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\VmResponseDto.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\DTOs\\VmResponseDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\VmResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:58:04.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VirtualMachine.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Entities\\VirtualMachine.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\VirtualMachine.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Entities\\VirtualMachine.cs",
+              "RelativeToolTip": "Domain\\Entities\\VirtualMachine.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:17:26.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "VmType.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Enums\\VmType.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\VmType.cs",
@@ -75,12 +228,36 @@
               "RelativeToolTip": "Domain\\Enums\\VmType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:12:19.985Z",
+              "WhenOpened": "2025-10-20T02:12:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CloudProvider.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Enums\\CloudProvider.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\CloudProvider.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Enums\\CloudProvider.cs",
+              "RelativeToolTip": "Domain\\Enums\\CloudProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:11:53.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "DomainValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Exceptions\\DomainValidationException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\DomainValidationException.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Exceptions\\DomainValidationException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\DomainValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:13:53.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ICloudResourceFactory.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Interfaces\\ICloudResourceFactory.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ICloudResourceFactory.cs",
@@ -93,20 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VirtualMachine.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Entities\\VirtualMachine.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\VirtualMachine.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Entities\\VirtualMachine.cs",
-              "RelativeToolTip": "Domain\\Entities\\VirtualMachine.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:17:26.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Storage.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Entities\\Storage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Storage.cs",
@@ -114,25 +278,11 @@
               "RelativeToolTip": "Domain\\Entities\\Storage.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:15:58.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T02:15:58.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CloudProvider.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Enums\\CloudProvider.cs",
-              "RelativeDocumentMoniker": "Domain\\Enums\\CloudProvider.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Enums\\CloudProvider.cs",
-              "RelativeToolTip": "Domain\\Enums\\CloudProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:11:53.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "SizeTier.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Enums\\SizeTier.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\SizeTier.cs",
@@ -140,12 +290,11 @@
               "RelativeToolTip": "Domain\\Enums\\SizeTier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:12:46.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T02:12:46.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Network.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Domain\\Entities\\Network.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Network.cs",
@@ -153,21 +302,19 @@
               "RelativeToolTip": "Domain\\Entities\\Network.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:14:46.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T02:14:46.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Infraestructure",
+              "DocumentIndex": 17,
+              "Title": "Infraestructure.csproj",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Infraestructure\\Infraestructure.csproj",
               "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
               "ToolTip": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Infraestructure\\Infraestructure.csproj",
               "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-20T02:13:15.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T02:13:15.51Z"
             }
           ]
         }
