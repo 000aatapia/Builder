@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Entities
+namespace Domain.Enums
 {
-    public interface IStorage
+    public enum SizeTier
     {
-        string Id { get; }
-        void CreateStorage();
+        Small,
+        Medium,
+        Large
     }
 }

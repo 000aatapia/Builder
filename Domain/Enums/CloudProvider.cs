@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Entities
+namespace Domain.Enums
 {
-    public interface INetwork
+    public enum CloudProvider
     {
-         string Id { get; }
-         void CreateNetwork();
+        AWS,
+        Azure,
+        GCP,
+        OnPrem
     }
 }
-
