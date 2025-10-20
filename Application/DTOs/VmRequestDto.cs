@@ -12,6 +12,7 @@ namespace Application.DTOs
         public CloudProvider Provider { get; set; }
         public VmType Type { get; set; }
         public string Region { get; set; } = string.Empty;
+        public string Flavor { get; set; } = string.Empty;
         public bool? DiskOptimization { get; set; }
         public bool? MemoryOptimization { get; set; }
         public string? KeyPairName { get; set; }

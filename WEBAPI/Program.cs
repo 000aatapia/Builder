@@ -1,15 +1,28 @@
+using Application.Services;
+using Infraestructure.Factories;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
+// Application
+builder.Services.AddScoped<VirtualMachineProvisionService>();
+
+
+// Repositorio (InMemory)
+builder.Services.AddSingleton<InMemoryVirtualMachineRepository>();
+
+// Infrastructure (Factories)
+builder.Services.AddScoped<ICloudResourceFactory, AwsResourceFactory>();
+builder.Services.AddScoped<ICloudResourceFactory, AzureResourceFactory>();
+builder.Services.AddScoped<ICloudResourceFactory, GcpResourceFactory>();
+builder.Services.AddScoped<ICloudResourceFactory, OnPremResourceFactory>();
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -17,9 +30,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

@@ -111,6 +111,20 @@
         "runtime": {
           "bin/placeholder/Domain.dll": {}
         }
+      },
+      "Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Application": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infraestructure.dll": {}
+        }
       }
     }
   },
@@ -472,11 +486,17 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../Infraestructure/Infraestructure.csproj",
+      "msbuildProject": "../Infraestructure/Infraestructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Application >= 1.0.0",
+      "Infraestructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -514,6 +534,9 @@
           "projectReferences": {
             "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Application\\Application.csproj"
+            },
+            "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\0User\\source\\Builder\\MultiCloudProvisioning\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }

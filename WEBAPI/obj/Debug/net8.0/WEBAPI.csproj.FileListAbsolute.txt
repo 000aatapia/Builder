@@ -33,3 +33,4 @@ C:\Users\0User\source\Builder\MultiCloudProvisioning\WEBAPI\obj\Debug\net8.0\ref
 C:\Users\0User\source\Builder\MultiCloudProvisioning\WEBAPI\obj\Debug\net8.0\WEBAPI.pdb
 C:\Users\0User\source\Builder\MultiCloudProvisioning\WEBAPI\obj\Debug\net8.0\WEBAPI.genruntimeconfig.cache
 C:\Users\0User\source\Builder\MultiCloudProvisioning\WEBAPI\obj\Debug\net8.0\ref\WEBAPI.dll
+C:\Users\0User\source\Builder\MultiCloudProvisioning\WEBAPI\obj\Debug\net8.0\WEBAPI.sourcelink.json

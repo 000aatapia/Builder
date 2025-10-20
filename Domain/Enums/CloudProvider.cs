@@ -11,6 +11,6 @@ namespace Domain.Enums
         AWS,
         Azure,
         GCP,
-        OnPrem
+        OnPremise
     }
 }
